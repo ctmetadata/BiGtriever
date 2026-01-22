@@ -2,7 +2,7 @@
 
 ## scripts
 
-### SFT (Supervised Fine-Tuning)
+### Distillation Student from Teacher
 
 
 ```bash
